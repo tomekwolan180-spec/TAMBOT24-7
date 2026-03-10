@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "TAMBOT",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "sigmarizz111.aternos.me",
-    "port": 45899,
-    "version": "",
+    "ip": "TAMSMP-2Prg.aternos.me",
+    "port": 11679,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
